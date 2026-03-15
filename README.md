@@ -1,13 +1,13 @@
 # python-practice
 Basic Python programs for learning and practice.
 
-This repository contains basic Python programs for learning and practice.
+# Python Practice Programs
 
 ## Programs
 
-- hello.py
-- fibonacci.py
-- prime_number.py
-- largest_of_three.py
-- multiplication_table.py
-- factorial.py
+- [Hello Program](hello.py)
+- [Fibonacci Program](fibonacci.py)
+- [Prime Number](prime_number.py)
+- [Largest of Three](largest_of_three.py)
+- [Multiplication Table](multiplication_table.py)
+- [Factorial](factorial.py)
