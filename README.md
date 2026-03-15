@@ -11,3 +11,4 @@ Basic Python programs for learning and practice.
 - [Largest of Three](largest_of_three.py)
 - [Multiplication Table](multiplication_table.py)
 - [Factorial](factorial.py)
+-[calculator](calculator.py)
